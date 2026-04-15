@@ -57,3 +57,4 @@ Layouts were adapted for smaller screens by stacking elements and optimizing spa
 
 ##Feedback
 Feedback is welcome and appreciated!
+#FIGMA LINK: https://www.figma.com/design/UbzeI0YMhrn846OmN5ypJU/AIIDEE-AI-TOOL-WEBSITE-DESIGN--Web---Responsive-?node-id=1-21&t=5olBm43OkLPTAthd-1
